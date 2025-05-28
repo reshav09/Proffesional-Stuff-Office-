@@ -8,8 +8,8 @@ Welcome to a brief showcase of the work I've contributed to in various professio
 
 ### 1. JSI – Coordinator (Volunteer & Sage Edu Kiran Project)
 
-**Duration:** [Jan, 2024 - May, 2024]  
-**Location:** [Bhopal, India]
+**Duration:** Jan, 2024 - May, 2024
+**Location:** Bhopal, India
 
 **Responsibilities:**
 - Coordinated volunteer efforts and supported educational outreach through the Sage Edu Kiran Project.
@@ -25,8 +25,8 @@ Welcome to a brief showcase of the work I've contributed to in various professio
 
 ### 2. DevOps Intern – Netlink Software Solutions America Inc.
 
-**Duration:** [Working]  
-**Location:** [India]
+**Duration:** Working
+**Location:** India
 
 **Responsibilities:**
 - Supported DevOps operations by automating and maintaining development pipelines.
@@ -43,5 +43,5 @@ Welcome to a brief showcase of the work I've contributed to in various professio
 ## 📫 Contact
 
 For collaboration or further details, feel free to connect:  
-📧 [reshav2004b@gmail.com]  
-🔗 [https://www.linkedin.com/in/reshav-sharma-844320173/]
+📧 - reshav2004b@gmail.com 
+🔗 - https://www.linkedin.com/in/reshav-sharma-844320173/
