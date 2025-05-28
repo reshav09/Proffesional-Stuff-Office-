@@ -25,11 +25,12 @@ Welcome to a brief showcase of the work I've contributed to in various professio
 
 ### 2. DevOps Intern – Netlink Software Solutions America Inc.
 
-**Duration:** Working
+**Duration:** December, 2025 - Present
 **Location:** India
 
 **Responsibilities:**
 - Supported DevOps operations by automating and maintaining development pipelines.
+- Monitored server incidents, reviewed server logs, and resolved issues to ensure high system uptime.
 - Worked with cross-functional teams to streamline deployment workflows and containerized applications.
 
 **Technologies & Tools:**
@@ -42,6 +43,6 @@ Welcome to a brief showcase of the work I've contributed to in various professio
 
 ## 📫 Contact
 
-For collaboration or further details, feel free to connect:  
+For collaboration or further details, feel free to connect: 
 📧 - reshav2004b@gmail.com 
 🔗 - https://www.linkedin.com/in/reshav-sharma-844320173/
