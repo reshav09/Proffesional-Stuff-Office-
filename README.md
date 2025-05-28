@@ -8,8 +8,8 @@ Welcome to a brief showcase of the work I've contributed to in various professio
 
 ### 1. JSI – Coordinator (Volunteer & Sage Edu Kiran Project)
 
-**Duration:** [Insert Duration]  
-**Location:** [Insert Location, if relevant]
+**Duration:** [Jan, 2024 - May, 2024]  
+**Location:** [Bhopal, India]
 
 **Responsibilities:**
 - Coordinated volunteer efforts and supported educational outreach through the Sage Edu Kiran Project.
@@ -44,4 +44,4 @@ Welcome to a brief showcase of the work I've contributed to in various professio
 
 For collaboration or further details, feel free to connect:  
 📧 [reshav2004b@gmail.com]  
-🔗 []
+🔗 [https://www.linkedin.com/in/reshav-sharma-844320173/]
